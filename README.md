@@ -62,9 +62,3 @@ Abaixo estão as tecnologias que domino e utilizo no meu dia a dia:
 | **Stack Overflow** | [antonionobrega](https://pt.stackoverflow.com/users/244196/antonionobrega) |
 | **E-mail** | antonio.a.nobrega.jr@gmail.com |
 
----
-
-### 📊 Estatísticas do GitHub
-
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=iang2006&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iang2006&layout=compact&theme=dracula)
